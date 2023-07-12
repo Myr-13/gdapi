@@ -12,6 +12,9 @@
 11 - reverse gravity portal
 12 - cube portal
 13 - ship portal
+899 - color trigger
+901 - move trigger
+1268 - spawn trigger
 1886 - normal circle glow
 1887 - small circle glow
 1888 - big circle glow

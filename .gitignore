@@ -1,5 +1,7 @@
 __pycache__
 .idea
 
+# Test files
 tmp.txt
 test.py
+image.png
