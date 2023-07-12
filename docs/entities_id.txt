@@ -1,0 +1,17 @@
+0 - empty
+1 - 1.0 block
+2 - 1.0 grid block up
+3 - 1.0 grid block left-up
+4 - 1.0 grid block dot left-up
+5 - 1.0 grid block empty
+6 - 1.0 grid block left-up-right
+7 - 1.0 grid block left-right
+8 - 1.0 spike
+9 - 1.0 black spikes
+10 - normal gravity portal
+11 - reverse gravity portal
+12 - cube portal
+13 - ship portal
+1886 - normal circle glow
+1887 - small circle glow
+1888 - big circle glow
